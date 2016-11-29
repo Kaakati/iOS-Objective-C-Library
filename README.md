@@ -38,12 +38,12 @@ Image | Name | Description | Github
 ### Photos & UIImage
 Image | Name | Description | Github
 --- | --- | --- | ---
-DZNPhotoPickerController | A photo search/picker for iOS using popular photo providers like 500px, Flickr, Intagram, Google & Bing Images. | [Source](https://github.com/hackiftekhar/DZNPhotoPickerController)
-IQAsyncImage | Asynchronous Image Loading Framework with progress and text initial placeholder support | [Source](https://github.com/hackiftekhar/IQAsyncImage) |
-NMRangeSlider | NMRangeSlider is custom iOS control that gives you a UISlider like UI for selecting a range of values. | [Source](https://github.com/hackiftekhar/NMRangeSlider) |
-UIImageView-Letters | An easy, helpful UIImageView category that generates letter initials as a placeholder for user profile images, with a randomized background color | [Source](https://github.com/hackiftekhar/UIImageView-Letters) |
-IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://github.com/hackiftekhar/IQZoomImageView) |
-| | |
+![alt text](https://github.com/dzenbot/DZNPhotoPickerController/raw/master/Docs/screenshot_features.png) | DZNPhotoPickerController | A photo search/picker for iOS using popular photo providers like 500px, Flickr, Intagram, Google & Bing Images. | [Source](https://github.com/hackiftekhar/DZNPhotoPickerController)
+No Photo | IQAsyncImage | Asynchronous Image Loading Framework with progress and text initial placeholder support | [Source](https://github.com/hackiftekhar/IQAsyncImage) |
+![alt text](https://camo.githubusercontent.com/7ab4cc414f53a8e7251ab01fd63e60f11998b597/68747470733a2f2f7261772e6769746875622e636f6d2f6d755a5a6b61742f4e4d52616e6765536c696465722f6d61737465722f4e4d52616e6765536c696465722d53637265656e53686f742e706e67) | NMRangeSlider | NMRangeSlider is custom iOS control that gives you a UISlider like UI for selecting a range of values. | [Source](https://github.com/hackiftekhar/NMRangeSlider) |
+![alt text](https://camo.githubusercontent.com/f4c231bd8da37f829730ac8a6e12350f688b3c3b/687474703a2f2f692e696d6775722e636f6d2f7853426a5651372e706e67) | UIImageView-Letters | An easy, helpful UIImageView category that generates letter initials as a placeholder for user profile images, with a randomized background color | [Source](https://github.com/hackiftekhar/UIImageView-Letters) |
+No Photo | IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://github.com/hackiftekhar/IQZoomImageView) |
+| | | |
 
 -------
 
@@ -51,8 +51,8 @@ IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://git
 
 Image | Name | Description | Github
 --- | --- | --- | ---
-ResponsiveLabel | A UILabel subclass which responds to touch on specified patterns (Pattern Detection - Detects email in text), (String Detection), (URL Detection), etc.  | [Source](https://github.com/hackiftekhar/ResponsiveLabel) |
-| | |
+![alt text](https://cloud.githubusercontent.com/assets/3590619/7828632/b0425196-0453-11e5-911a-79d56e7a8539.png) | ResponsiveLabel | A UILabel subclass which responds to touch on specified patterns (Pattern Detection - Detects email in text), (String Detection), (URL Detection), etc.  | [Source](https://github.com/hackiftekhar/ResponsiveLabel) |
+| | | |
 
 -----------
 
@@ -60,7 +60,7 @@ ResponsiveLabel | A UILabel subclass which responds to touch on specified patter
 
 Image | Name | Description | Github
 --- | --- | --- | ---
-FLEX | An in-app debugging and exploration tool for iOS | [Source](https://github.com/Flipboard/FLEX) |
+![alt text](https://camo.githubusercontent.com/9986601c5e4306f7935032465911c0f70596e046/687474703a2f2f656e67696e656572696e672e666c6970626f6172642e636f6d2f6173736574732f666c65782f62617369632d766965772d6578706c6f726174696f6e2e676966) | FLEX | An in-app debugging and exploration tool for iOS | [Source](https://github.com/Flipboard/FLEX) |
 
 -----------
 End of List
