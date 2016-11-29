@@ -1,10 +1,17 @@
 # iOS-Objective-C-Library
-A Library of Useful Objective-C Libraries for iOS
-
-I'll Keep adding new items from time to time.
-
-
+A curated list of awesome iOS ecosystem, in Objective-C, Useful Objective-C Libraries for iOS.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ------------
+
+## AboutHow to Use
+---
+A curated list of awesome iOS libraries. The list is divided into categories.
+
+## How to Use
+---
+- Simply press `command` + `F` to search for a keyword
+- Go through the Content
+
 
 ### Audio & Video
 Name | Description | Github
