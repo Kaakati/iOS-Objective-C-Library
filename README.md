@@ -37,3 +37,9 @@ WYPopoverController | WYPopoverController is for the presentation of content in 
 Name | Description | Github
 --- | --- | ---
 DZNPhotoPickerController | A photo search/picker for iOS using popular photo providers like 500px, Flickr, Intagram, Google & Bing Images. | [Source](https://github.com/hackiftekhar/DZNPhotoPickerController)
+IQAsyncImage | Asynchronous Image Loading Framework with progress and text initial placeholder support | [Source](https://github.com/hackiftekhar/IQAsyncImage) |
+| | |
+
+-------
+
+End of List
