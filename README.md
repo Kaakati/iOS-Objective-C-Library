@@ -37,7 +37,8 @@ Name | Description | Github
 --- | --- | ---
 IQGradientMaskView | IQGradientView is a subclass to show Gradient Mask on the top and bottom. | [Source](https://github.com/hackiftekhar/IQGradientMaskView)
 WYPopoverController | WYPopoverController is for the presentation of content in popover on iPhone / iPad devices. Very customizable. | [Source](https://github.com/hackiftekhar/WYPopoverController) |
-| | | |
+AsyncImageView | AsyncImageView is a simple extension of UIImageView for loading and displaying images asynchronously on iOS so that they do not lock up the UI. | [Source](https://github.com/nicklockwood/AsyncImageView) |
+| | |
 
 ------
 
