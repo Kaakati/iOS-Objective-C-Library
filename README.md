@@ -3,15 +3,16 @@ A curated list of awesome iOS ecosystem, in Objective-C, Useful Objective-C Libr
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ------------
 
-## AboutHow to Use
+## About
 ---
-A curated list of awesome iOS libraries. The list is divided into categories.
+A curated list of awesome iOS libraries. The list is divided into categories, this list should insist of very useful libraries that can make life very easy for developers.
 
 ## How to Use
 ---
 - Simply press `command` + `F` to search for a keyword
 - Go through the Content
 
+## Content List
 
 ### Audio & Video
 Name | Description | Github
