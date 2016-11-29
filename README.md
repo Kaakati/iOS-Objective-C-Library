@@ -17,6 +17,15 @@ Name | Description | Github
 --- | --- | ---
 YYModel | High performance model framework for iOS/OSX. | [Source](https://github.com/ibireme/YYModel) |
 YYCache | High performance cache framework for iOS. | [Source](https://github.com/ibireme/YYCache) |
+AFNetworking | A delightful networking framework for iOS, OS X, watchOS, and tvOS. | [Source](https://github.com/AFNetworking/AFNetworking) |
+AFNetworking Retry Policy | Nice category that adds the ability to set the retry interval, retry count and progressive | [Source](https://github.com/kubatruhlar/AFNetworking-RetryPolicy) |
+RestKit | RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. | [Source](https://github.com/RestKit/RestKit) |
+| | |
+
+### Database
+Name | Description | Github
+--- | --- | ---
+Realm | Realm is a mobile database: a replacement for Core Data & SQLite. | [Source](https://github.com/realm/realm-cocoa) |
 | | |
 
 ### Date & Time
