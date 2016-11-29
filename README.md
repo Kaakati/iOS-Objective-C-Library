@@ -14,7 +14,7 @@ IQAudioRecorderController | A drop-in universal library allows to record audio w
 
 -----
 
-### Keyboard
+### Keyboards & PickerViews
 Name | Description | Github
 --- | --- | ---
 IQDropDownTextField | TextField with DropDown support using UIPickerView | [Source](https://github.com/hackiftekhar/IQDropDownTextField)
@@ -23,11 +23,17 @@ IQKeyboardManager | Codeless drop-in universal library allows to prevent issues 
 
 ------
 
-### Alerts
+### Views & UIViews
 
 Name | Description | Github
 --- | --- | ---
-IQDropDownTextField | TextField with DropDown support using UIPickerView | [Source](https://github.com/hackiftekhar/IQDropDownTextField)
+IQGradientMaskView | IQGradientView is a subclass to show Gradient Mask on the top and bottom.. | [Source](https://github.com/hackiftekhar/IQGradientMaskView)
+WYPopoverController | WYPopoverController is for the presentation of content in popover on iPhone / iPad devices. Very customizable. | [Source](https://github.com/hackiftekhar/WYPopoverController) |
 | | |
 
 ------
+
+### Photos & Images
+Name | Description | Github
+--- | --- | ---
+DZNPhotoPickerController | A photo search/picker for iOS using popular photo providers like 500px, Flickr, Intagram, Google & Bing Images. | [Source](https://github.com/hackiftekhar/DZNPhotoPickerController)
