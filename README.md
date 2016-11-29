@@ -6,10 +6,11 @@ I'll Keep adding new items from time to time.
 
 ------------
 
-### Audio
+### Audio & Video
 Name | Description | Github
 --- | --- | ---
 IQAudioRecorderController | A drop-in universal library allows to record audio within the app with a nice User Interface. | [Source](https://github.com/hackiftekhar/IQAudioRecorderController)
+ALMoviePlayerController | A drop-in replacement for MPMoviePlayerController that exposes the UI elements and allows for maximum customization | [Source](https://github.com/hackiftekhar/ALMoviePlayerController) |
 | | |
 
 -----
@@ -19,6 +20,7 @@ Name | Description | Github
 --- | --- | ---
 IQDropDownTextField | TextField with DropDown support using UIPickerView | [Source](https://github.com/hackiftekhar/IQDropDownTextField)
 IQKeyboardManager | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | [Source](https://github.com/hackiftekhar/IQKeyboardManager) |
+ZSSRichTextEditor | A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view | [Source](https://github.com/hackiftekhar/ZSSRichTextEditor) |
 | | |
 
 ------
@@ -50,6 +52,14 @@ Name | Description | Github
 --- | --- | ---
 ResponsiveLabel | A UILabel subclass which responds to touch on specified patterns (Pattern Detection - Detects email in text), (String Detection), (URL Detection), etc.  | [Source](https://github.com/hackiftekhar/ResponsiveLabel) |
 | | |
+
+-----------
+
+### in-app Debugging
+
+Name | Description | Github
+--- | --- | ---
+FLEX | An in-app debugging and exploration tool for iOS | [Source](https://github.com/Flipboard/FLEX) |
 
 -----------
 End of List
