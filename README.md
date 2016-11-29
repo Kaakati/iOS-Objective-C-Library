@@ -12,6 +12,14 @@ A curated list of awesome iOS libraries. The list is divided into categories, th
 
 ## Content List
 
+### Networking
+Name | Description | Github
+--- | --- | ---
+YYModel | High performance model framework for iOS/OSX. | [Source](https://github.com/ibireme/YYModel) |
+YYCache | High performance cache framework for iOS. | [Source](https://github.com/ibireme/YYCache) |
+| | |
+
+
 ### Audio & Video
 Name | Description | Github
 --- | --- | ---
@@ -38,6 +46,9 @@ Name | Description | Github
 IQGradientMaskView | IQGradientView is a subclass to show Gradient Mask on the top and bottom. | [Source](https://github.com/hackiftekhar/IQGradientMaskView)
 WYPopoverController | WYPopoverController is for the presentation of content in popover on iPhone / iPad devices. Very customizable. | [Source](https://github.com/hackiftekhar/WYPopoverController) |
 AsyncImageView | AsyncImageView is a simple extension of UIImageView for loading and displaying images asynchronously on iOS so that they do not lock up the UI. | [Source](https://github.com/nicklockwood/AsyncImageView) |
+YYWebImage | Asynchronous image loading framework. | [Source](https://github.com/ibireme/YYWebImage) |
+YYImage | Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more. | [Source](https://github.com/ibireme/YYImage) |
+RSKImageCropper | An image cropper for iOS like in the Contacts app with support for landscape orientation. | [Source](https://github.com/ruslanskorb/RSKImageCropper) |
 | | |
 
 ------
