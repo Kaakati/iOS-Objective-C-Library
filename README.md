@@ -48,7 +48,6 @@ Name | Description | Github
 --- | --- | ---
 DZNPhotoPickerController | A photo search/picker for iOS using popular photo providers like 500px, Flickr, Intagram, Google & Bing Images. | [Source](https://github.com/hackiftekhar/DZNPhotoPickerController)
 IQAsyncImage | Asynchronous Image Loading Framework with progress and text initial placeholder support. | [Source](https://github.com/hackiftekhar/IQAsyncImage) |
-NMRangeSlider | NMRangeSlider is custom iOS control that gives you a UISlider like UI for selecting a range of values. | [Source](https://github.com/hackiftekhar/NMRangeSlider) |
 UIImageView-Letters | An easy, helpful UIImageView category that generates letter initials as a placeholder for user profile images, with a randomized background color. | [Source](https://github.com/hackiftekhar/UIImageView-Letters) |
 IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://github.com/hackiftekhar/IQZoomImageView) |
 | | |
@@ -62,6 +61,13 @@ Name | Description | Github
 ResponsiveLabel | A UILabel subclass which responds to touch on specified patterns (Pattern Detection - Detects email in text), (String Detection), (URL Detection), etc...  | [Source](https://github.com/hackiftekhar/ResponsiveLabel) |
 | | |
 
+-----------
+
+### Sliders
+Name | Description | Github
+--- | --- | ---
+NMRangeSlider | NMRangeSlider is custom iOS control that gives you a UISlider like UI for selecting a range of values. | [Source](https://github.com/hackiftekhar/NMRangeSlider) |
+| | |
 -----------
 
 ### in-app Debugging
