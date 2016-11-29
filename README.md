@@ -58,8 +58,8 @@ ResponsiveLabel | A UILabel subclass which responds to touch on specified patter
 
 ### in-app Debugging
 
-Image | Name | Description | Github
---- | --- | --- | ---
+Name | Description | Github
+--- | --- | ---
 FLEX | An in-app debugging and exploration tool for iOS | [Source](https://github.com/Flipboard/FLEX) |
 
 -----------
