@@ -4,11 +4,9 @@ A curated list of awesome iOS ecosystem, in Objective-C, Useful Objective-C Libr
 ------------
 
 ## About
----
 A curated list of awesome iOS libraries. The list is divided into categories, this list should insist of very useful libraries that can make life very easy for developers.
 
 ## How to Use
----
 - Simply press `command` + `F` to search for a keyword
 - Go through the Content
 
