@@ -60,6 +60,17 @@ DZNPhotoPickerController | A photo search/picker for iOS using popular photo pro
 IQAsyncImage | Asynchronous Image Loading Framework with progress and text initial placeholder support. | [Source](https://github.com/hackiftekhar/IQAsyncImage) |
 UIImageView-Letters | An easy, helpful UIImageView category that generates letter initials as a placeholder for user profile images, with a randomized background color. | [Source](https://github.com/hackiftekhar/UIImageView-Letters) |
 IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://github.com/hackiftekhar/IQZoomImageView) |
+YUCIHighPassSkinSmoothing | An implementation of High Pass Skin Smoothing using CoreImage.framework. | [Source](https://github.com/YuAo/YUCIHighPassSkinSmoothing) |
+SVGKit | SVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful. | [Source](https://github.com/SVGKit/SVGKit) |
+| | |
+
+-------
+
+### PDF & Files
+Name | Description | Github
+--- | --- | ---
+UIView_2_PDF | PDF generator using UIViews or UIViews with an associated XIB | [Source](https://github.com/RobertAPhillips/UIView_2_PDF) |
+SSZipArchive | ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac. | [Source](https://github.com/ZipArchive/ZipArchive) |
 | | |
 
 -------
@@ -73,12 +84,28 @@ ResponsiveLabel | A UILabel subclass which responds to touch on specified patter
 
 -----------
 
+### Localization
+Name | Description | Github
+--- | --- | ---
+Hodor | Hodor is a simple solution to localize your iOS App quickly, allow you to change language of project in-app without quiting the app, Just like WeChat. | [Source](https://github.com/Aufree/Hodor) |
+Lin | Lin is a Xcode plugin that provides auto-completion for NSLocalizedString. | [Source](https://github.com/questbeat/Lin) |
+| | |
+
 ### Sliders
 Name | Description | Github
 --- | --- | ---
 NMRangeSlider | NMRangeSlider is custom iOS control that gives you a UISlider like UI for selecting a range of values. | [Source](https://github.com/hackiftekhar/NMRangeSlider) |
 | | |
 -----------
+
+### Streaming
+Name | Description | Github
+--- | --- | ---
+StreamingKit | A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS. | [Source](https://github.com/tumtumtum/StreamingKit) |
+LFLiveKit | H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate. | [Source](https://github.com/LaiFengiOS/LFLiveKit) |
+| | |
+
+-------
 
 ### in-app Debugging
 
