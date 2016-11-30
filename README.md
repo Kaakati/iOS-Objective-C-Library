@@ -91,6 +91,12 @@ SSZipArchive | ZipArchive is a simple utility class for zipping and unzipping fi
 
 -------
 
+### Alerts & Notifications
+--- | --- | ---
+FTIndicator | A light wight UI package contains local notification, progress HUD, toast, with blur effect, elegant API and themes Support. | [Source](https://github.com/liufengting/FTIndicator) |
+
+-------
+
 ### UILabel & TextField
 
 Name | Description | Github
