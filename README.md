@@ -26,7 +26,7 @@ HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](http
 ### Loading & Progress
 Name | Description | Github
 --- | --- | ---
-MBProgressHUD | MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. | [Source](https://github.com/jdg/MBProgressHUD) |
+SVProgressHUD | A clean and lightweight progress HUD for your iOS and tvOS app. | [Source](https://github.com/SVProgressHUD/SVProgressHUD) |
 | | |
 
 
