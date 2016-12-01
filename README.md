@@ -23,6 +23,13 @@ RestKit | RestKit is a modern Objective-C framework for implementing RESTful web
 HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](https://github.com/iabudiab/HTMLKit) |
 | | |
 
+### Loading & Progress
+Name | Description | Github
+--- | --- | ---
+MBProgressHUD | MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. | [Source](https://github.com/jdg/MBProgressHUD) |
+| | |
+
+
 ### Database
 Name | Description | Github
 --- | --- | ---
