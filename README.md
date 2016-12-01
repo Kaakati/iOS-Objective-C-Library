@@ -27,6 +27,7 @@ HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](http
 Name | Description | Github
 --- | --- | ---
 SVProgressHUD | A clean and lightweight progress HUD for your iOS and tvOS app. | [Source](https://github.com/SVProgressHUD/SVProgressHUD) |
+KVNProgress | KVNProgress is a fully customizable progress HUD that can be full screen or not. | [Source](https://github.com/AssistoLab/KVNProgress) |
 | | |
 
 
