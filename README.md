@@ -113,7 +113,7 @@ FTIndicator | A light wight UI package contains local notification, progress HUD
 Name | Description | Github
 --- | --- | ---
 ResponsiveLabel | A UILabel subclass which responds to touch on specified patterns (Pattern Detection - Detects email in text), (String Detection), (URL Detection), etc...  | [Source](https://github.com/hackiftekhar/ResponsiveLabel) |
-| | |
+JVFloatLabeledTextField | UITextField subclass with floating labels |  [Source](https://github.com/jverdi/JVFloatLabeledTextField) |
 
 -----------
 
