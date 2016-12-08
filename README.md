@@ -59,6 +59,7 @@ Name | Description | Github
 IQDropDownTextField | TextField with DropDown support using UIPickerView. | [Source](https://github.com/hackiftekhar/IQDropDownTextField)
 IQKeyboardManager | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | [Source](https://github.com/hackiftekhar/IQKeyboardManager) |
 ZSSRichTextEditor | A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view. | [Source](https://github.com/hackiftekhar/ZSSRichTextEditor) |
+BEMCheckBox | BEMCheckBox is an open source library making it easy to create beautiful, highly customizable, animated checkboxes for iOS. | [Source](https://github.com/Boris-Em/BEMCheckBox) |
 | | |
 
 ------
