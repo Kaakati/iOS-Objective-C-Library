@@ -87,6 +87,9 @@ UIImageView-Letters | An easy, helpful UIImageView category that generates lette
 IQZoomImageView | Zoomable imageView with shadow support. | [Source](https://github.com/hackiftekhar/IQZoomImageView) |
 YUCIHighPassSkinSmoothing | An implementation of High Pass Skin Smoothing using CoreImage.framework. | [Source](https://github.com/YuAo/YUCIHighPassSkinSmoothing) |
 SVGKit | SVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful. | [Source](https://github.com/SVGKit/SVGKit) |
+PINRemoteImage | Fast, non-deadlocking parallel image downloader and cache for iOS.  | [Source](https://github.com/pinterest/PINRemoteImage) |
+TOCropViewController | TOCropViewController is an open-source UIViewController subclass built to allow users to perform basic manipulation on UIImage objects; specifically cropping and some basic rotations.  | [Source](https://github.com/TimOliver/TOCropViewController) |
+FastImageCache (Path) | iOS library for quickly displaying images while scrolling. | [Source](https://github.com/path/FastImageCache) |
 | | |
 
 -------
