@@ -23,6 +23,12 @@ RestKit | RestKit is a modern Objective-C framework for implementing RESTful web
 HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](https://github.com/iabudiab/HTMLKit) |
 | | |
 
+### Security
+Name | Description | Github
+--- | --- | ---
+LTHPasscodeViewController | Simple to use iOS 7 style Passcode - the one you get in Settings when changing your passcode. | [Source(https://github.com/rolandleth/LTHPasscodeViewController)] |
+| | |
+
 ### Loading & Progress
 Name | Description | Github
 --- | --- | ---
