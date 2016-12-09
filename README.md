@@ -26,7 +26,7 @@ HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](http
 ### Security
 Name | Description | Github
 --- | --- | ---
-LTHPasscodeViewController | Simple to use iOS 7 style Passcode - the one you get in Settings when changing your passcode. | [Source(https://github.com/rolandleth/LTHPasscodeViewController)] |
+LTHPasscodeViewController | Simple to use iOS 7 style Passcode - the one you get in Settings when changing your passcode. | [Source](https://github.com/rolandleth/LTHPasscodeViewController) |
 | | |
 
 ### Loading & Progress
