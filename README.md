@@ -19,7 +19,7 @@ YYModel | High performance model framework for iOS/OSX. | [Source](https://githu
 YYCache | High performance cache framework for iOS. | [Source](https://github.com/ibireme/YYCache) |
 AFNetworking | A delightful networking framework for iOS, OS X, watchOS, and tvOS. | [Source](https://github.com/AFNetworking/AFNetworking) |
 AFNetworking Retry Policy | Nice category that adds the ability to set the retry interval, retry count and progressive | [Source](https://github.com/kubatruhlar/AFNetworking-RetryPolicy) |
-RestKit | RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. | [Source](https://github.com/RestKit/RestKit) |
+RestKit | Note: The RestKit is using deprecated libraries, Apple will stop any app using Restkit for AFNetworking old version embeded in Restkit, RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X.  | [Source](https://github.com/RestKit/RestKit) |
 HTMLKit | An Objective-C framework for your everyday HTML needs. | [Source](https://github.com/iabudiab/HTMLKit) |
 | | |
 
